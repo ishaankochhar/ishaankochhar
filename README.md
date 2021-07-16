@@ -1,4 +1,4 @@
-## Hi everyone 👋, my name is Ishaan, I'm a Data Scientist from India with a focus on spatial data science and remote sensing 
+# Hi everyone 👋, my name is Ishaan
 <!--
 **ishaankochhar/ishaankochhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌟 MSc in Geoinformation Science and Earth Observation | ITC, Unversity of Twente | Enschede, The Netherlands
+- 🛰️ Remote Sensing + Data Science 
