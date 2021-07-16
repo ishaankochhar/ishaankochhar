@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## Hi everyone 👋, my name is Ishaan, I'm a Data Scientist from India with a focus on spatial data science and remote sensing 
 <!--
 **ishaankochhar/ishaankochhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
