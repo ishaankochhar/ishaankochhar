@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Google Scholar](https://scholar.google.com/citations?user=FIBBBbQAAAAJ&hl=en)
 - 🌟 MSc in Geoinformation Science and Earth Observation | ITC, Unversity of Twente | Enschede, The Netherlands
 - 🛰️ Remote Sensing + Geospatial Data Science 
