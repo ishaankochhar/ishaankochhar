@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌟 MSc in Geoinformation Science and Earth Observation | ITC, Unversity of Twente | Enschede, The Netherlands
-- 🛰️ Remote Sensing + Geospatial Data Science 
+- 🛰️ Interested in Remote Sensing of Environment | Geospatial Data Science | Human-Environment Interaction | 
 
 
 
