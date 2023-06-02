@@ -1,5 +1,5 @@
 
-# Hi everyone 👋, my name is Ishaan
+# Hi 👋, I am Ishaan
 
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/kochhar_ishaan?style=social)](https://twitter.com/kochhar_ishaan)
